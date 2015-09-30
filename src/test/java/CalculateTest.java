@@ -7,6 +7,6 @@ public class CalculateTest {
         Calculate calculate = new Calculate();
         int n = calculate.calA(2, 2);
 
-        assertEquals(4, n);
+        assertEquals(2, n);
     }
 }
